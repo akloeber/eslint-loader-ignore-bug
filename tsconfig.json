@@ -1,0 +1,10 @@
+{
+  "compilerOptions": {
+    "allowJs": true,
+    "esModuleInterop": true,
+    "module": "esNext",
+    "outDir": "dist",
+    "target": "es6"
+  },
+  "files": ["src/main.ts"]
+}
